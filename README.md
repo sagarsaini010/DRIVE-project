@@ -86,8 +86,8 @@ All protected routes use JWT stored in cookies. Middleware verifies token and at
 
 
 
-🙌 Author
-Sagar Saini
-Backend Developer | Passionate about secure, scalable systems
-📧 sagarsaini954818@gmail.co
+🙌 Author </br>
+Sagar Saini </br>
+Backend Developer | Passionate about secure, scalable systems </br>
+📧 sagarsaini954818@gmail.com
 
